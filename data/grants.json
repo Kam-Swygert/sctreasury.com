@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Digital Infrastructure Grant",
+    "description": "Supports access to digital infrastructure, broadband connectivity, and community technology access programs.",
+    "category": "Infrastructure",
+    "eligible": ["Library", "School", "Community College", "Nonprofit", "Workforce Board"],
+    "fundingRange": "$50,000 - $250,000",
+    "deadline": "Ongoing"
+  },
+  {
+    "id": 2,
+    "title": "Workforce Innovation Grant",
+    "description": "Funds job training, skills development, and workforce readiness programs aligned with emerging digital economy sectors.",
+    "category": "Employment",
+    "eligible": ["Community College", "Nonprofit", "Workforce Board"],
+    "fundingRange": "$75,000 - $300,000",
+    "deadline": "Ongoing"
+  },
+  {
+    "id": 3,
+    "title": "Civic Technology Grant",
+    "description": "Supports development and implementation of public digital systems, transparency tools, and civic engagement technologies.",
+    "category": "Technology",
+    "eligible": ["Nonprofit", "School", "Community College"],
+    "fundingRange": "$100,000 - $500,000",
+    "deadline": "Ongoing"
+  },
+  {
+    "id": 4,
+    "title": "Digital Equity Initiative",
+    "description": "Advances equitable access to digital resources, digital literacy programs, and technology adoption in underserved communities.",
+    "category": "Equity",
+    "eligible": ["Library", "Nonprofit", "Community College", "Workforce Board"],
+    "fundingRange": "$50,000 - $200,000",
+    "deadline": "Ongoing"
+  },
+  {
+    "id": 5,
+    "title": "Public Financial Transparency Grant",
+    "description": "Supports implementation of financial transparency systems, open data initiatives, and accountability reporting infrastructure.",
+    "category": "Technology",
+    "eligible": ["Community College", "Nonprofit", "School"],
+    "fundingRange": "$100,000 - $400,000",
+    "deadline": "Ongoing"
+  },
+  {
+    "id": 6,
+    "title": "Community Capacity Building Grant",
+    "description": "Invests in organizational capacity, staff training, and program development for community-serving institutions.",
+    "category": "Infrastructure",
+    "eligible": ["Library", "Nonprofit", "Community College", "Workforce Board"],
+    "fundingRange": "$25,000 - $150,000",
+    "deadline": "Ongoing"
+  }
+]
