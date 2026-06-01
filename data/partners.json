@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Richland County Public Library",
+    "type": "Library",
+    "location": "Richland County",
+    "description": "Community technology access and digital literacy programming.",
+    "programs": ["Digital Literacy", "Workforce Skills", "Public Computer Access"]
+  },
+  {
+    "id": 2,
+    "name": "Midlands Technical College",
+    "type": "Community College",
+    "location": "Richland County",
+    "description": "Workforce training and credential programs aligned with regional employment needs.",
+    "programs": ["Workforce Training", "Technology Credentials", "Career Pathways"]
+  },
+  {
+    "id": 3,
+    "name": "SC Community Development Association",
+    "type": "Nonprofit",
+    "location": "Statewide",
+    "description": "Regional economic development and community capacity building initiatives.",
+    "programs": ["Community Development", "Workforce Development", "Digital Equity"]
+  },
+  {
+    "id": 4,
+    "name": "Charleston County Schools",
+    "type": "School",
+    "location": "Charleston County",
+    "description": "K-12 educational partner for youth digital literacy and career awareness.",
+    "programs": ["Youth Digital Literacy", "Career Exploration", "STEM Integration"]
+  },
+  {
+    "id": 5,
+    "name": "Low Country Regional Workforce Board",
+    "type": "Workforce Board",
+    "location": "Multiple Counties",
+    "description": "Regional employment and skills development coordination.",
+    "programs": ["Workforce Training", "Job Placement", "Skills Assessment"]
+  },
+  {
+    "id": 6,
+    "name": "Upstate Community Foundation",
+    "type": "Nonprofit",
+    "location": "Multiple Counties",
+    "description": "Philanthropic partner supporting community-based digital initiatives.",
+    "programs": ["Grant Distribution", "Community Programs", "Digital Equity"]
+  },
+  {
+    "id": 7,
+    "name": "Aiken Public Library",
+    "type": "Library",
+    "location": "Aiken County",
+    "description": "Community technology center and digital literacy resource.",
+    "programs": ["Digital Literacy", "Public Computer Access", "Technology Training"]
+  },
+  {
+    "id": 8,
+    "name": "Greenville Technical College",
+    "type": "Community College",
+    "location": "Greenville County",
+    "description": "Advanced workforce training and technology credential programs.",
+    "programs": ["Technology Training", "Workforce Credentials", "Continuing Education"]
+  }
+]
