@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grant Framework - SCTREASURY</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+<header>
+  <div class="header-container">
+    <h1>SCTREASURY</h1>
+    <nav>
+      <a href="index.html">Overview</a>
+      <a href="grants.html">Grants</a>
+      <a href="partners.html">Partners</a>
+      <a href="research.html">Research</a>
+      <a href="transparency.html">Transparency</a>
+    </nav>
+  </div>
+</header>
+
+<div class="container">
+  <div class="hero">
+    <h2>Grant Framework & Program Alignment</h2>
+    <p>Discover funding opportunities and program participation pathways available to eligible institutions and community partners.</p>
+  </div>
+
+  <div class="card">
+    <h3>Eligibility Checker</h3>
+    <p>Use the filters below to explore potential funding pathways.</p>
+    <div class="filter-group">
+      <label>Organization Type:</label>
+      <select id="orgType">
+        <option value="">All Types</option>
+        <option value="Library">Library</option>
+        <option value="School">School</option>
+        <option value="Community College">Community College</option>
+        <option value="Nonprofit">Nonprofit</option>
+        <option value="Workforce Board">Workforce Board</option>
+      </select>
+
+      <label>Funding Focus:</label>
+      <select id="focus">
+        <option value="">All Categories</option>
+        <option value="Infrastructure">Digital Infrastructure</option>
+        <option value="Employment">Workforce & Employment</option>
+        <option value="Technology">Civic Technology</option>
+        <option value="Equity">Digital Equity</option>
+      </select>
+
+      <button class="button" onclick="filterGrants()">Search Grants</button>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Available Funding Opportunities</h3>
+    <div id="grants-container"></div>
+  </div>
+
+  <div class="card">
+    <h3>Funding Categories</h3>
+    <ul>
+      <li><strong>Digital Infrastructure:</strong> Supports access to digital infrastructure and community connectivity programs.</li>
+      <li><strong>Workforce & Employment:</strong> Funds job training, skills development, and workforce readiness initiatives.</li>
+      <li><strong>Civic Technology:</strong> Supports development of public digital systems and transparency tools.</li>
+      <li><strong>Digital Equity:</strong> Advances equitable access to digital resources and digital literacy programs.</li>
+    </ul>
+  </div>
+</div>
+
+<footer>
+  <p>&copy; 2025 South Carolina State Treasurer's Office. All rights reserved.</p>
+</footer>
+
+<script src="js/grants.js"></script>
+</body>
+</html>
